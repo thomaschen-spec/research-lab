@@ -22,7 +22,7 @@ const config = {
   url: 'https://research-lab.vercel.app',
   baseUrl: '/',
 
-  organizationName: 'thomas-chen',
+  organizationName: 'thomaschen-spec',
   projectName: 'research-lab',
 
   onBrokenLinks: 'throw',
@@ -42,7 +42,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/thomas-chen/research-lab/tree/main/',
+          editUrl: 'https://github.com/thomaschen-spec/research-lab/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -53,7 +53,7 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl: 'https://github.com/thomas-chen/research-lab/tree/main/',
+          editUrl: 'https://github.com/thomaschen-spec/research-lab/tree/main/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -88,7 +88,7 @@ const config = {
             label: '文件',
           },
           {
-            href: 'https://github.com/thomas-chen/research-lab',
+            href: 'https://github.com/thomaschen-spec/research-lab',
             label: 'GitHub',
             position: 'right',
           },
@@ -111,7 +111,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/thomas-chen/research-lab',
+                href: 'https://github.com/thomaschen-spec/research-lab',
               },
             ],
           },
