@@ -1,19 +1,34 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-
 docusaurus:
   label: Docusaurus
   permalink: /docusaurus
-  description: Docusaurus tag description
+  description: Docusaurus 框架相關
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+setup:
+  label: 環境建置
+  permalink: /setup
+  description: 開發環境與工具設定
+
+ci-cd:
+  label: CI/CD
+  permalink: /ci-cd
+  description: 持續整合與自動部署
+
+workflow:
+  label: 工作流程
+  permalink: /workflow
+  description: 開發流程與自動化
+
+ai:
+  label: AI 應用
+  permalink: /ai
+  description: AI 工具與應用實驗
+
+prompt:
+  label: 提示詞工程
+  permalink: /prompt
+  description: Prompt Engineering 研究
+
+mermaid:
+  label: Mermaid 圖表
+  permalink: /mermaid
+  description: Mermaid 架構圖語法
