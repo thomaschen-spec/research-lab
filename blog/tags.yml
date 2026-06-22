@@ -32,3 +32,23 @@ mermaid:
   label: Mermaid 圖表
   permalink: /mermaid
   description: Mermaid 架構圖語法
+
+pure-claude-code:
+  label: 純 Claude Code
+  permalink: /pure-claude-code
+  description: 不依賴外部服務的純本地 Claude Code 實驗
+
+curriculum:
+  label: 課程設計
+  permalink: /curriculum
+  description: AI 訓練課表與考核藍圖
+
+skill:
+  label: Skill 抽象
+  permalink: /skill
+  description: 可重用 Skill 的設計與實作
+
+prompt-engineering:
+  label: 提示詞設計
+  permalink: /prompt-engineering
+  description: Prompt 設計原則與實驗
